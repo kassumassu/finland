@@ -1,0 +1,124 @@
+.tausta1 {
+    background-color: blue; 
+    width: 3000px; 
+    height: 1500px; 
+} 
+@keyframes anima {
+    from {
+        transform: translateX(-300px);
+    }     
+    to {
+        transform: translateX(0px);
+    }
+} 
+.a1 {
+    animation-name: anima; 
+    animation-duration: 2s; 
+    animation-iteration-count: 1; 
+    color: white; 
+    font-size: 100px; 
+    transition: 2s; 
+} 
+.a1:hover {
+    color: black; 
+} 
+.a2 {
+    animation-name: anima; 
+    animation-duration: 2s; 
+    animation-iteration-count: 1; 
+    color: white; 
+    font-size: 100px; 
+    transition: 2s; 
+} 
+.a2:hover { 
+    color: black; 
+} 
+.a3 {
+    animation-name: anima; 
+    animation-duration: 2s; 
+    animation-iteration-count: 1; 
+    color: white; 
+    font-size: 100px; 
+    transition: 2s; 
+} 
+.a3:hover {
+    color: black; 
+} 
+.a4 {
+    animation-name: anima; 
+    animation-duration: 2s; 
+    animation-iteration-count: 1; 
+    color: white; 
+    font-size: 100px; 
+    transition: 2s; 
+} 
+.a4:hover { 
+    color: black; 
+}  
+.nappi1 {
+    animation-name: anima; 
+    animation-duration: 2s; 
+    animation-iteration-count: 1; 
+    color: white; 
+    font-size: 100px; 
+    border-radius: 36px; 
+}  
+.nappi2 {
+    animation-name: anima; 
+    animation-duration: 2s; 
+    animation-iteration-count: 1; 
+    color: white; 
+    font-size: 100px; 
+    border-radius: 36px; 
+}  
+.nappi3 {
+    animation-name: anima; 
+    animation-duration: 2s; 
+    animation-iteration-count: 1; 
+    color: white; 
+    font-size: 100px; 
+    border-radius: 36px; 
+}  
+.tausta2 {
+    background-color: black; 
+    width: 3000px; 
+    height: 1500px; 
+} 
+.a5 {
+    animation-name: anima; 
+    animation-duration: 2s; 
+    animation-iteration-count: 1; 
+    color: white; 
+    font-size: 100px; 
+    transition: 2s; 
+} 
+.a5:hover { 
+    color: blue;  
+}  
+.a6 {
+    animation-name: anima; 
+    animation-duration: 2s; 
+    animation-iteration-count: 1; 
+    color: white; 
+    font-size: 100px; 
+    transition: 2s; 
+} 
+.a6:hover {  
+    color: blue;  
+}  
+.nappi4 {
+    animation-name: anima; 
+    animation-duration: 2s; 
+    animation-iteration-count: 1; 
+    color: blue; 
+    font-size: 100px; 
+    border-radius: 36px; 
+}   
+.nappi5 {
+    animation-name: anima; 
+    animation-duration: 2s; 
+    animation-iteration-count: 1; 
+    color: blue; 
+    font-size: 100px; 
+    border-radius: 36px; 
+}   
